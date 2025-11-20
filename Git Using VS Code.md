@@ -99,7 +99,7 @@ This is the step that will “merge unrelated histories” using the UI instead 
 That is normal and expected.
 You WANT this so you can combine both codebases safely.
 
-### 🚨Failed / error whule Pull?
+### 🚨Failed / Error while **Pull → From...** ?
 
 ```
 fatal: refusing to merge unrelated histories
